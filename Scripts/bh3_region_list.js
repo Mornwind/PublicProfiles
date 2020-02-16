@@ -1,6 +1,7 @@
 /*
-崩坏3（iOS版）服务器列表补全
+「崩坏3（iOS版）服务器列表补全」
 By: Mornwind
+Reference: FlintyLemming / 霞ヶ丘詩羽x
 
 Surge 4:
 [URL Rewrite]
