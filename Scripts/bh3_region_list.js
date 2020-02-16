@@ -4,7 +4,7 @@ By: Mornwind
 
 Surge 4:
 [Script]
-http-response ^https:\/\/global1\.bh3\.com\/query_dispatch\?version=(\d*\.\d*\.\d*)_gf_ios&t=(\d*) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/Mornwind/PublicProfiles/master/Scripts/bh3_region_list.js
+http-response ^https:\/\/global1\.bh3\.com\/query_dispatch\?version=(\d*\.\d*\.\d*)_gf_(android|ios|pc)&t=(\d*) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/Mornwind/PublicProfiles/master/Scripts/bh3_region_list.js
 [MITM]
 hostname = global1.bh3.com
 */
