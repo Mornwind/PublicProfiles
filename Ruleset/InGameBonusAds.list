@@ -1,0 +1,39 @@
+# > InGameADs
+# >> applovin
+DOMAIN-SUFFIX,d.applovin.com
+DOMAIN-SUFFIX,ms.applovin.com
+DOMAIN-SUFFIX,rt.applovin.com
+DOMAIN-SUFFIX,d.applvn.com
+DOMAIN-SUFFIX,ms.applvn.com
+DOMAIN-SUFFIX,rt.applvn.com
+
+# >> appsflyer
+DOMAIN-SUFFIX,events.appsflyer.com
+DOMAIN-SUFFIX,stats.appsflyer.com
+DOMAIN-SUFFIX,t.appsflyer.com
+
+# >> doubleclick
+DOMAIN-SUFFIX,googleads.g.doubleclick.net
+
+# >> moatads
+DOMAIN-SUFFIX,z.moatads.com
+
+# >> mopub
+DOMAIN-SUFFIX,ads.mopub.com
+
+# >> googleapis
+DOMAIN-SUFFIX,storage.googleapis.com
+
+# >> supersonicads
+DOMAIN-SUFFIX,init.supersonicads.com
+DOMAIN-SUFFIX,outcome-ssp.supersonicads.com
+
+# >> tapjoy
+DOMAIN-SUFFIX,tapjoy.com
+DOMAIN-SUFFIX,tapjoyads.com
+
+# >> unity3d
+DOMAIN-SUFFIX,config.unityads.unity3d.com
+
+# >> vungle
+DOMAIN-SUFFIX,ads.api.vungle.com
